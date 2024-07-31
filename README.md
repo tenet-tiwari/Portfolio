@@ -14,6 +14,10 @@ Welcome to my portfolio! This project showcases my work experience and various c
 Here are some of the tech Stacks I used, represented by logos:
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+
 
 ## Example
 
