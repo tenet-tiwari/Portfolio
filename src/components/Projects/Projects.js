@@ -72,7 +72,7 @@ function Projects() {
               title="Portfolio"
               description="It is my personal portfolio showcasing my work and skills. It serves as a comprehensive overview of my projects, including web development, AI applications, C++ and more. Designed to highlight my technical expertise and creative solutions, Portfoili reflects my journey and achievements, providing insights into my capabilities and accomplishments."
               ghLink="https://github.com/tenet-tiwari"
-              demoLink="merry-biscotti-4a1e85.netlify.app/"
+              demoLink="https://portfolio-jt6p.onrender.com"
             />
           </Col>
 
