@@ -9,9 +9,10 @@ import logo1 from "../../Assets/Projects/logo1.jpg";
 import logo2 from "../../Assets/Projects/logo2.jpg";
 import logo3 from "../../Assets/Projects/logo3.jpg";
 import logo4 from "../../Assets/Projects/logo4.jpg";
-import logo5 from "../../Assets/Projects/logo5.jpg";
+import logo5 from "../../Assets/Projects/logo9.jpg";
 import logo6 from "../../Assets/Projects/logo6.jpg";
 import logo7 from "../../Assets/Projects/logo7.jpg";
+import logo8 from "../../Assets/Projects/logo8.jpg";
 
 function Projects() {
   return (
@@ -41,7 +42,17 @@ function Projects() {
               title="Training and Placement Cell"
               description="Training and Placement Cell, a powerful and intuitive interface designed for managing placement statistics and overseeing administrative tasks. This React-based application is crafted to provide seamless data visualization and user management capabilities."
               ghLink="https://github.com/tenet-tiwari/TNPC"
-              demoLink=""
+              demoLink="https://chipper-beijinho-f9eff1.netlify.app"
+            />
+          </Col>
+
+          <Col md={4} className="project-card" style={{ opacity: 1 }}>
+            <ProjectCard
+              imgPath={logo8}
+              title="JobG"
+              description="Welcome to JobG, a full-stack MERN (MongoDB, Express, React, Node.js) application designed to streamline the job application process by offering distinct functionalities for both job seekers and employers."
+              ghLink="https://github.com/tenet-tiwari/JobG"
+              demoLink="https://aquamarine-strudel-0d2ef1.netlify.app/"
             />
           </Col>
 
@@ -61,7 +72,7 @@ function Projects() {
               title="Portfolio"
               description="It is my personal portfolio showcasing my work and skills. It serves as a comprehensive overview of my projects, including web development, AI applications, C++ and more. Designed to highlight my technical expertise and creative solutions, Portfoili reflects my journey and achievements, providing insights into my capabilities and accomplishments."
               ghLink="https://github.com/tenet-tiwari"
-              demoLink=""
+              demoLink="merry-biscotti-4a1e85.netlify.app/"
             />
           </Col>
 
