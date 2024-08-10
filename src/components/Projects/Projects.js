@@ -31,8 +31,8 @@ function Projects() {
               imgPath={logo6}
               title="EVote"
               description="EVote is a secure, web-based voting platform designed for easy and efficient elections. It features robust encryption for vote integrity, user authentication, real-time results, and an intuitive interface. Developed during an internship, EVote aims to enhance accessibility and transparency in the voting process."
-              ghLink="https://github.com/tenet-tiwari?tab=repositories"
-              demoLink=""
+              ghLink="https://github.com/tenet-tiwari/Online_Voting"
+              demoLink="https://online-voting-1-nk8u.onrender.com"
             />
           </Col>
 
