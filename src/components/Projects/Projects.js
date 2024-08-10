@@ -10,7 +10,7 @@ import logo2 from "../../Assets/Projects/logo2.jpg";
 import logo3 from "../../Assets/Projects/logo3.jpg";
 import logo4 from "../../Assets/Projects/logo4.jpg";
 import logo5 from "../../Assets/Projects/logo9.jpg";
-import logo6 from "../../Assets/Projects/logo6.jpg";
+import logo6 from "../../Assets/Projects/logo10.jpg";
 import logo7 from "../../Assets/Projects/logo7.jpg";
 import logo8 from "../../Assets/Projects/logo8.jpg";
 
