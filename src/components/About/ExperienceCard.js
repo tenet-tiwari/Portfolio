@@ -7,22 +7,26 @@ import { FaBriefcase, FaGithub } from "react-icons/fa";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "./ExperienceCard.css"; // Custom CSS for hover effects
+import logo from '../../Assets/logo.jpg';
 
 function ExperienceCard() {
   const experiences = [
     {
       company: "SN BOSE Summer Intern, NIT Silchar",
       position: "Web Developer",
-      duration: "May 2024 - July 2024",
+      duration: "June 2024 - July 2024",
       project: {
         name: "EVote",
         description: "EVote is a secure, web-based voting platform designed for easy and efficient elections. It features robust encryption for vote integrity, user authentication, real-time results, and an intuitive interface. Developed during an internship, EVote aims to enhance accessibility and transparency in the voting process.",
-        githubLink: "https://github.com/tenet-tiwari",
-        backgroundImage: "https://i.ibb.co/7nVLHF7/4448.jpg",
+        githubLink: "https://github.com/tenet-tiwari/Online_Voting",
+        //backgroundImage: "https://i.ibb.co/7nVLHF7/4448.jpg",
+        backgroundImage:logo,
       },
     },
     // Add more experiences as needed
   ];
+
+
 
   const [showDuration, setShowDuration] = useState(null);
 
