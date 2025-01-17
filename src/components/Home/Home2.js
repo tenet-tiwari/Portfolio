@@ -28,7 +28,7 @@ function Home2() {
               <br />
               <br />
               
-              My tech stack includes <b className="purple">JavaScript</b> frameworks like <b className="purple">React.js, Node.js, and Express.js.</b> For styling, I use <b className="purple">Bootstrap, Tailwind CSS, and traditional CSS</b>. I also work with databases such as <b className="purple">MongoDB</b>  and am currently exploring <b className="purple">cloud-related technologies</b> to enhance my web development projects.
+              My tech stack includes <b className="purple">JavaScript</b> frameworks like <b className="purple">React.js, Node.js, and Express.js.</b> For styling, I use <b className="purple">Bootstrap, Tailwind CSS, and traditional CSS</b>. I also work with databases such as <b className="purple">MongoDB </b>and <b className="purple">SQL</b> and am currently exploring <b className="purple">cloud-related technologies</b> to enhance my web development projects.
               
             </p>
           </Col>

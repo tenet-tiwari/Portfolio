@@ -25,13 +25,13 @@ function AboutCard() {
               <li className="about-activity">
                 <ImPointRight /> 
                 <a href="https://www.geeksforgeeks.org/events/rec/gfg-weekly-coding-contest?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=contests/" target="_blank" rel="noopener noreferrer" className="purple">
-                  4-star on GeeksforGeeks with a rating of 1860
+                  4-star on GeeksforGeeks with a rating of 1900+
                 </a>
               </li>
               <li className="about-activity">
                 <ImPointRight /> 
                 <a href="https://leetcode.com/u/ayush__tiwari__/" target="_blank" rel="noopener noreferrer" className="purple">
-                  1750 rating on LeetCode
+                  1775+ rating on LeetCode
                 </a>
               </li>
               <li className="about-activity">

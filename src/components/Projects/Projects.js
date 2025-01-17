@@ -13,6 +13,8 @@ import logo5 from "../../Assets/Projects/logo9.jpg";
 import logo6 from "../../Assets/Projects/logo10.jpg";
 import logo7 from "../../Assets/Projects/logo7.jpg";
 import logo8 from "../../Assets/Projects/logo8.jpg";
+import logo9 from "../../Assets/Projects/logo11.jpg";
+import logo10 from "../../Assets/Projects/logo12.jpg";
 
 function Projects() {
   return (
@@ -88,6 +90,17 @@ function Projects() {
 
           <Col md={4} className="project-card" style={{ opacity: 1 }}>
             <ProjectCard
+              imgPath={logo10}
+              title="Bank-Customer-Churn-Prediction-ANN"
+              description="This code implements an Artificial Neural Network (ANN) for predicting bank customer churn"
+              ghLink="https://github.com/tenet-tiwari/Bank-Customer-Churn-Prediction-ANN"
+              demoLink=""
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card" style={{ opacity: 1 }}>
+            <ProjectCard
               imgPath={logo2}
               title="PixelSmith"
               description="PixelSmiths is an advanced AI-powered image generator that creates stunning and imaginative artwork based on user input. Utilizing state-of-the-art machine learning models, PixelSmith transforms text prompts into high-quality images."
@@ -102,6 +115,16 @@ function Projects() {
               title="AI-Genie"
               description="Ai-Genie is an auto-reply AI application built with MERN stack and OpenAI API. It provides intelligent and context-aware responses for various inquiries, enhancing communication efficiency. Ai-Genie leverages advanced natural language processing to generate accurate and relevant replies, streamlining user interactions."
               ghLink="https://github.com/tenet-tiwari/AI-Genie"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card" style={{ opacity: 1 }}>
+            <ProjectCard
+              imgPath={logo9}
+              title="Mall_Customers_Spend-using-k-means-Clustering"
+              description="This code implements K-Means Clustering on the Mall Customers dataset to group customers based on their Annual Income and Spending Score."
+              ghLink="https://github.com/tenet-tiwari/Mall_Customers_Spend-using-k-means-Clustering"
               demoLink=""
             />
           </Col>

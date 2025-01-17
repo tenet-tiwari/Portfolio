@@ -5,7 +5,9 @@ import { SiTailwindcss } from "react-icons/si";
 import { SiBootstrap } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
 import { SiRapid } from "react-icons/si";
-
+import { PiFileSql } from "react-icons/pi";
+import { SiPandas } from "react-icons/si";
+import { SiNumpy } from "react-icons/si";
 import {
   DiJavascript1,
   DiReact,
@@ -49,7 +51,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMysql />
+        <PiFileSql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
@@ -65,6 +67,12 @@ function Techstack() {
       </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNumpy />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPandas />
       </Col>
       {/* <Col xs={4} md={2} className="tech-icons">
         <DiJava />

@@ -4,6 +4,7 @@ import { FaWindows } from "react-icons/fa";
 import { SiMongodb } from "react-icons/si";
 import { SiNetlify } from "react-icons/si";
 import { SiCmake } from "react-icons/si";
+import { GrMysql } from "react-icons/gr";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -26,6 +27,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <GrMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
